@@ -1,0 +1,11 @@
+{
+  "name": "log-watch",
+  "version": "1.0.0",
+  "description": "Watch a log file and log any changes to the console",
+  "main": "log-watch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hristijan Gjorgjievski",
+  "license": "ISC"
+}
